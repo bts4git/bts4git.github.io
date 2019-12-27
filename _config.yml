@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "LEE Inhee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a **humble** person."
+  location         : "Somewhere over the rainbow"
+  email            : "leeinhee@bestts.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
